@@ -4,7 +4,7 @@
 <?php include('inc/title.php'); ?>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Car Trade Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+<meta name="keywords" content="Awesome Automobile 9 Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
 	SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony Ericsson, Motorola web design" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- Custom Theme files -->
@@ -23,8 +23,11 @@
  <link href="//fonts.googleapis.com/css?family=Petit+Formal+Script" rel="stylesheet"> 
 <link href="https://fonts.googleapis.com/css?family=Mandali&display=swap" rel="stylesheet">
 
-<link href="https://fonts.googleapis.com/css?family=Bree+Serif|Lobster|Mandali|PT+Sans|Righteous&display=swap" rel="stylesheet">
-<!-- //web-fonts -->
+<!-- <link href="https://fonts.googleapis.com/css?family=Bree+Serif|Lobster|Mandali|PT+Sans|Righteous&display=swap" rel="stylesheet">
+ -->
+<link href="https://fonts.googleapis.com/css?family=Anton|Bree+Serif|Lobster|Mandali|PT+Sans|Righteous|Roboto&display=swap" rel="stylesheet">
+
+ <!-- //web-fonts -->
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top"> 
 	<!-- banner -->
@@ -68,8 +71,8 @@
 	<!-- //banner --> 
 	<div class="wthree-soon">
 		<div class="container">
-			<div class="wthree-soon-agileinfo" style="background-color: red;">
-				<h5>Our Turbo Car is almost ready</h5>
+			<div class="wthree-soon-agileinfo" style="background-color: #242582; ">
+				<h5>Get Ready for Our Next Import!</h5>
 				<!-- timer -->
 				<div class="agileits-timer"> 
 					<div class="clock">
@@ -211,7 +214,7 @@
 	</div>
 	<!-- //features -->
 	<!-- services -->
-	<div class="services jarallax">
+	<!-- <div class="services jarallax">
 		<div class="container"> 
 			<div class="w3ls_banner_bottom_grids">
 				<ul class="cbp-ig-grid">
@@ -219,139 +222,163 @@
 						<div class="w3_grid_effect">
 							<span class="cbp-ig-icon w3_road"></span>
 							<h4 class="cbp-ig-title">ipsum imperdiet</h4>
-							<span class="cbp-ig-category">Car Trade</span>
+							<span class="cbp-ig-category">Awesome Automobile 9</span>
 						</div>
 					</li>
 					<li>
 						<div class="w3_grid_effect">
 							<span class="cbp-ig-icon w3_cube"></span>
 							<h4 class="cbp-ig-title">suscipit tortor</h4>
-							<span class="cbp-ig-category">Car Trade</span>
+							<span class="cbp-ig-category">Awesome Automobile 9</span>
 						</div>
 					</li>
 					<li>
 						<div class="w3_grid_effect">
 							<span class="cbp-ig-icon w3_users"></span>
 							<h4 class="cbp-ig-title">Vestibu magna</h4>
-							<span class="cbp-ig-category">Car Trade</span>
+							<span class="cbp-ig-category">Awesome Automobile 9</span>
 						</div>
 					</li>
 					<li>
 						<div class="w3_grid_effect">
 							<span class="cbp-ig-icon w3_ticket"></span>
 							<h4 class="cbp-ig-title">convall turpis</h4>
-							<span class="cbp-ig-category">Car Trade</span>
+							<span class="cbp-ig-category">Awesome Automobile 9</span>
 						</div>
 					</li>
 				</ul>
 				<div class="clearfix"> </div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<!-- //services -->
 	<!-- gallery -->
 	<div id="gallery" class="gallery">
 		<div class="container">
-			<h3 class="agileits-title">Gallery<span class="w3lshr-line"> </span></h3>
+			<h3 class="agileits-title">Our Cars<span class="w3lshr-line"> </span></h3>
 			<div class="main">
                 <div class="col-sm-4 col-xs-6 gallry-agile-grids">
 					<div class="view view-seventh">
-						<a href="images/g1.jpg" class="b-link-stripe b-animate-go thickbox" title="Car Trade">
+						<a href="images/g1.jpg" class="b-link-stripe b-animate-go thickbox" title="Awesome Automobile 1 &nbsp;&nbsp;&#8358;1,500,000">
 							<img src="images/g1.jpg" alt=""/>
 							<div class="mask">
-								<h4>Trending Cars</h4>
-								<p>Donec efficitur lacus sit amet sollicitudin finibus. Sed tristique nisi augue, sed elementum </p>
+								<h4>Awesome Automobile 1<br>&#8358;1,500,000</h4>
+								<p>Our Awesome Automobile is just the best for you! </p>
 							</div>
 						</a>
+
 					</div>
+					<p>&nbsp;&nbsp;<i class="fa fa-phone" aria-hidden="true"></i>: <a href='tel:08035063430'>08035063430</a>&nbsp;&nbsp;<i style="color: green;" class="fa fa-whatsapp" aria-hidden="true"></i>: <a href='https://wa.me/+2348035063430'>08035063430</a></p> 
+						
                 </div>
 				<div class="col-sm-4 col-xs-6 gallry-agile-grids">
 					<div class="view view-seventh">
-						<a href="images/g2.jpg" class="b-link-stripe b-animate-go thickbox" title="Car Trade">
+						<a href="images/g2.jpg" class="b-link-stripe b-animate-go thickbox" title="Awesome Automobile 2 &nbsp;&nbsp;&#8358;3,500,000 ">
 							<img src="images/g2.jpg" alt=""/>
 							<div class="mask">
-								<h4>Trending Cars</h4>
-								<p>Donec efficitur lacus sit amet sollicitudin finibus. Sed tristique nisi augue, sed elementum </p>
+								<h4>Awesome Automobile 2<br>&#8358;3,500,000</h4>
+								<p>Our Awesome Automobile is just the best for you! </p>
 							</div>
 						</a>
 					</div>
+					<p>&nbsp;&nbsp;<i class="fa fa-phone" aria-hidden="true"></i>: <a href='tel:08035063430'>08035063430</a>&nbsp;&nbsp;<i style="color: green;" class="fa fa-whatsapp" aria-hidden="true"></i>: <a href='https://wa.me/+2348035063430'>08035063430</a></p> 
                 </div>
 				<div class="col-sm-4 col-xs-6 gallry-agile-grids">
 					<div class="view view-seventh">
-						<a href="images/g3.jpg" class="b-link-stripe b-animate-go thickbox" title="Car Trade">
+						<a href="images/g3.jpg" class="b-link-stripe b-animate-go thickbox" title="Awesome Automobile 3 &nbsp;&nbsp;&#8358;800,000 ">
 							<img src="images/g3.jpg" alt=""/>
 							<div class="mask">
-								<h4>Trending Cars</h4>
-								<p>Donec efficitur lacus sit amet sollicitudin finibus. Sed tristique nisi augue, sed elementum </p>
+								<h4>Awesome Automobile 3<br>&#8358;800,000</h4>
+								<p>Our Awesome Automobile is just the best for you! </p>
 							</div>
 						</a>
-					</div> 
+						
+					</div>
+					<p>&nbsp;&nbsp;<i class="fa fa-phone" aria-hidden="true"></i>: <a href='tel:08035063430'>08035063430</a>&nbsp;&nbsp;<i style="color: green;" class="fa fa-whatsapp" aria-hidden="true"></i>: <a href='https://wa.me/+2348035063430'>08035063430</a></p> 
+						 
                 </div>  
 				<div class="col-sm-4 col-xs-6 gallry-agile-grids">
 					<div class="view view-seventh">
-						<a href="images/g7.jpg" class="b-link-stripe b-animate-go thickbox" title="Car Trade">
+						<a href="images/g7.jpg" class="b-link-stripe b-animate-go thickbox" title="Awesome Automobile 4 &nbsp;&nbsp;&#8358;10,500,000 ">
 							<img src="images/g7.jpg" alt=""/>
 							<div class="mask">
-								<h4>Trending Cars</h4>
-								<p>Donec efficitur lacus sit amet sollicitudin finibus. Sed tristique nisi augue, sed elementum </p>
+								<h4>Awesome Automobile 4<br>&#8358;10,500,000</h4>
+								<p>Our Awesome Automobile is just the best for you! </p>
 							</div>
 						</a>
+						
 					</div>
+					<p>&nbsp;&nbsp;<i class="fa fa-phone" aria-hidden="true"></i>: <a href='tel:08035063430'>08035063430</a>&nbsp;&nbsp;<i style="color: green;" class="fa fa-whatsapp" aria-hidden="true"></i>: <a href='https://wa.me/+2348035063430'>08035063430</a></p> 
+						
                 </div>
 				<div class="col-sm-4 col-xs-6 gallry-agile-grids">
 					<div class="view view-seventh">
-						<a href="images/g8.jpg" class="b-link-stripe b-animate-go thickbox" title="Car Trade">
+						<a href="images/g8.jpg" class="b-link-stripe b-animate-go thickbox" title="Awesome Automobile 5 &nbsp;&nbsp;&#8358;4,500,000 ">
 							<img src="images/g8.jpg" alt=""/>
 							<div class="mask">
-								<h4>Trending Cars</h4>
-								<p>Donec efficitur lacus sit amet sollicitudin finibus. Sed tristique nisi augue, sed elementum </p>
+								<h4>Awesome Automobile 5<br>&#8358;4,500,000</h4>
+								<p>Our Awesome Automobile is just the best for you! </p>
 							</div>
 						</a>
+						
 					</div>
+					<p>&nbsp;&nbsp;<i class="fa fa-phone" aria-hidden="true"></i>: <a href='tel:08035063430'>08035063430</a>&nbsp;&nbsp;<i style="color: green;" class="fa fa-whatsapp" aria-hidden="true"></i>: <a href='https://wa.me/+2348035063430'>08035063430</a></p> 
+						
                 </div>
 				<div class="col-sm-4 col-xs-6 gallry-agile-grids">
 					<div class="view view-seventh">
-						<a href="images/g9.jpg" class="b-link-stripe b-animate-go thickbox" title="Car Trade">
+						<a href="images/g9.jpg" class="b-link-stripe b-animate-go thickbox" title="Awesome Automobile 6&nbsp;&nbsp;&#8358;650,000 ">
 							<img src="images/g9.jpg" alt=""/>
 							<div class="mask">
-								<h4>Trending Cars</h4>
-								<p>Donec efficitur lacus sit amet sollicitudin finibus. Sed tristique nisi augue, sed elementum </p>
+								<h4>Awesome Automobile 6<br>&#8358;650,000</h4>
+								<p>Our Awesome Automobile is just the best for you! </p>
 							</div>
 						</a>
-					</div> 
+						
+					</div>
+					<p>&nbsp;&nbsp;<i class="fa fa-phone" aria-hidden="true"></i>: <a href='tel:08035063430'>08035063430</a>&nbsp;&nbsp;<i style="color: green;" class="fa fa-whatsapp" aria-hidden="true"></i>: <a href='https://wa.me/+2348035063430'>08035063430</a></p> 
+						 
                 </div>  
 				<div class="col-sm-4 col-xs-6 gallry-agile-grids">
 					<div class="view view-seventh">
-						<a href="images/g4.jpg" class="b-link-stripe b-animate-go thickbox" title="Car Trade">
+						<a href="images/g4.jpg" class="b-link-stripe b-animate-go thickbox" title="Awesome Automobile 7 &nbsp;&nbsp;&#8358;850,000">
 							<img src="images/g4.jpg" alt=""/>
 							<div class="mask">
-								<h4>Trending Cars</h4>
-								<p>Donec efficitur lacus sit amet sollicitudin finibus. Sed tristique nisi augue, sed elementum </p>
+								<h4>Awesome Automobile 7<br>&#8358;850,000</h4>
+								<p>Our Awesome Automobile is just the best for you! </p>
 							</div>
 						</a>
+						
 					</div>
+					<p>&nbsp;&nbsp;<i class="fa fa-phone" aria-hidden="true"></i>: <a href='tel:08035063430'>08035063430</a>&nbsp;&nbsp;<i style="color: green;" class="fa fa-whatsapp" aria-hidden="true"></i>: <a href='https://wa.me/+2348035063430'>08035063430</a></p> 
+						
                 </div>
 				<div class="col-sm-4 col-xs-6 gallry-agile-grids">
 					<div class="view view-seventh">
-						<a href="images/g5.jpg" class="b-link-stripe b-animate-go thickbox" title="Car Trade">
+						<a href="images/g5.jpg" class="b-link-stripe b-animate-go thickbox" title="Awesome Automobile 8 &nbsp;&nbsp;&#8358;750,000 ">
 							<img src="images/g5.jpg" alt=""/>
 							<div class="mask">
-								<h4>Trending Cars</h4>
-								<p>Donec efficitur lacus sit amet sollicitudin finibus. Sed tristique nisi augue, sed elementum </p>
+								<h4>Awesome Automobile 8<br>&#8358;750,000</h4>
+								<p>Our Awesome Automobile is just the best for you! </p>
 							</div>
 						</a>
+						
 					</div>
+					<p>&nbsp;&nbsp;<i class="fa fa-phone" aria-hidden="true"></i>: <a href='tel:08035063430'>08035063430</a>&nbsp;&nbsp;<i style="color: green;" class="fa fa-whatsapp" aria-hidden="true"></i>: <a href='https://wa.me/+2348035063430'>08035063430</a></p> 
+						
                 </div>
 				<div class="col-sm-4 col-xs-6 gallry-agile-grids">
 					<div class="view view-seventh">
-						<a href="images/g6.jpg" class="b-link-stripe b-animate-go thickbox" title="Car Trade">
+						<a href="images/g6.jpg" class="b-link-stripe b-animate-go thickbox" title="Awesome Automobile 9 &nbsp;&nbsp;&#8358;1,200,000">
 							<img src="images/g6.jpg" alt=""/>
 							<div class="mask">
-								<h4>Trending Cars</h4>
-								<p>Donec efficitur lacus sit amet sollicitudin finibus. Sed tristique nisi augue, sed elementum </p>
+								<h4>Awesome Automobile 9<br>&#8358;1,200,000</h4>
+								<p>Our Awesome Automobile is just the best for you! </p>
 							</div>
 						</a>
-					</div> 
+						
+					</div>
+					<p>&nbsp;&nbsp;<i class="fa fa-phone" aria-hidden="true"></i>: <a href='tel:08035063430'>08035063430</a>&nbsp;&nbsp;<i style="color: green;" class="fa fa-whatsapp" aria-hidden="true"></i>: <a href='https://wa.me/+2348035063430'>08035063430</a></p> 
 				</div>
 				<div class="clearfix"> </div>
             </div>
@@ -449,15 +476,18 @@
 		<div class="w3_agileits_contact_grids">
 			<div class="col-md-6 col-xs-8 w3_agileits_contact_grid_left">
 				<div class="agile_map">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3950.3905851087434!2d-34.90500565012194!3d-8.061582082752993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ab18d90992e4ab%3A0x8e83c4afabe39a3a!2sSport+Club+Do+Recife!5e0!3m2!1sen!2sin!4v1478684415917" style="border:0"></iframe>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d7891.787967198175!2d4.594803827052951!3d8.50967386213046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s3%2Conipepeye+close+off+basin+road%2C+Ilorin+234032!5e0!3m2!1sen!2sng!4v1558788690339!5m2!1sen!2sng" style="border:0"></iframe>
+
+
 				</div>
-				<div class="agileits_w3layouts_map_pos">
+				<div class="agileits_w3layouts_map_pos" style="background-color: #242582;">
 					<div class="agileits_w3layouts_map_pos1">
-						<h3>Contact Info</h3>
-						<p>348 Melrose Place, 4538 victoria, 4th block avenue, Brazil.</p>
+						<h3 style="color: white;">Contact Info</h3>
+						<p> 3, Onipepeye Close off Basin Road, Ilorin, Kwara Nigeria</p>
 						<ul class="wthree_contact_info_address">
-							<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@example.com">info@example.com</a></li>
-							<li><i class="fa fa-phone" aria-hidden="true"></i>+(0123) 232 232</li>
+							<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="enquiries@akmusty.com">enquiries@akmusty.com</a></li>
+							<li><i class="fa fa-phone" aria-hidden="true"></i>0803 506 3430 </li>
+							<li><i class="fa fa-angle-double-right" aria-hidden="true"></i><a target="_blank" href="https://wego.here.com/directions/mix//Ak-Musty-Autos,-3,onipepeye-close-off-basin-road,-234032-Ilorin:e-eyJuYW1lIjoiQWsgTXVzdHkgQXV0b3MiLCJhZGRyZXNzIjoiMyxvbmlwZXBleWUgY2xvc2Ugb2ZmIGJhc2luIHJvYWQsIElsb3JpbiAyMzQwMzIiLCJsYXRpdHVkZSI6OC40Nzk5LCJsb25naXR1ZGUiOjQuNTYyNywicHJvdmlkZXJOYW1lIjoiZmFjZWJvb2siLCJwcm92aWRlcklkIjoyNzQ2NDAzMTMzMjQxMjd9?map=8.4799,4.5627,15,normal&fb_locale=en_GB">Get Direction Here</a></li>
 						</ul>
 						<div class="w3_agile_social_icons w3_agile_social_icons_contact">
 							<ul>
